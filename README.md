@@ -96,6 +96,8 @@ Command name  | Description
 `/album query` | Search in your library for albums, that contains `query` in name.
 `/artist query` | Search in your library for artists, that contains `query` in name.
 `/year query` | Search in your library for songs, that created in certain year.
+`/play N` | Get Nth audio file from list.
+`/playall` | Get all audio files from list.
 `esc` | Escape from state
 
 # License
